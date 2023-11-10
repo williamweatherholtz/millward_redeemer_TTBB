@@ -1,6 +1,6 @@
-*.pdf
+#*.pdf
 *.ps
-*.midi
-*.mid
+#*.midi
+#*.mid
 *.log
 *~
