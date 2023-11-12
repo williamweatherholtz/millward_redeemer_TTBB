@@ -54,7 +54,7 @@ tentwo_music = \relative c' {
   \global
     \tempo 4 = 70
     \voiceTwo
-    s4 s1 s1 r2 r4 r8 a'8 a2.
+    r4 r1 r1 r2 r4 r8 a'8 a2.
     a4 fs2 fs4 fs e(cs) d d cs\staccato r2. r2.
  
     %\tempo 4 = 84-100
@@ -75,7 +75,7 @@ bassone = \relative c {
 
     \tempo 4 = 70
     \voiceThree
-    s4 s1 s1 r2 r4 r8 e8^\sfz d2.^\sfz\fermata
+    r4 r1 r1 r2 r4 r8 e8^\sfz d2.^\sfz\fermata
     d'4\mf a2 a4 a a2 gs4 gs a4\staccato r2. r2.
  
     %\tempo 4 = 84-100
@@ -96,7 +96,7 @@ basstwo = \relative c {
 
     \tempo 4 = 70
     \voiceFour
-    s4 s1 s1 r2 r4 r8 a8 a2.
+    r4 r1 r1 r2 r4 r8 a8 a2.
     d4 d2 d4 d e2 e4 e a,\staccato r2. r2.
  
     %\tempo 4 = 84-100
@@ -107,7 +107,7 @@ basstwo = \relative c {
       d4 d2 d4 d4 d2 d4 d4 g2 g4 g4 a2 d,2 d2 d4 d4 a2 a4 a4 d2.
     }
     
-    d4 d (a) \caesurad d d2 g4 g a2 a,4 a d2.		d4 d2 d4 d e2 e4 e a,2.
+    d4 d (a) \caesura d d d2 g4 g a2 a,4 a d2.		d4 d2 d4 d e2 e4 e a,2.
       d4 d4\staccato r4 d4 d4 d2 d4 d4 g2 g4 g4 a2 	d,2_"Re      echo       ooo" d2 (d2)~ d1~ d2. a4 g2 a4 a <<a2 d,2 >> r2
     
 }
